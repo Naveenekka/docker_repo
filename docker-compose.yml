@@ -35,5 +35,5 @@ services:
             - "80:80"
 
 volumes: 
-    vprodbdata: {}
-    vprappdata: {}
+    vprodbdata:{}
+    vprappdata:{}
